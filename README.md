@@ -1,0 +1,2 @@
+# sysinfoapp
+electron; app
